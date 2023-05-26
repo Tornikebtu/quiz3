@@ -105,7 +105,7 @@ def insert_info_in_db():
     
     toaster = ToastNotifier()
     toaster.show_toast("Woof Woof...",
-                    "ბაზაში ახალი ძაღლის ფოტო დაემატა!",
+                    "ბაზაში ძაღლის ახალი ფოტო დაემატა!",
                     duration=10)
 
 
